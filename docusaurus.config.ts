@@ -73,7 +73,7 @@ const config: Config = {
       title: 'World of LOR',
       items: [
         {
-          to: '/docs/intro',
+          to: '/docs',
           label: 'Home',
           position: 'left',
         },
