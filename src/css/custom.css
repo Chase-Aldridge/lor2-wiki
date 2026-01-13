@@ -430,3 +430,135 @@ hr {
 html {
   color-scheme: light !important;
 }
+
+/* ===== WIKIDOT-STYLE CATEGORY BOXES ===== */
+.wiki-categories {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.wiki-category {
+  background-color: #faf8f3;
+  border: 1px solid #c9b99a;
+  padding: 0;
+  break-inside: avoid;
+}
+
+.wiki-category h3,
+.wiki-category-header {
+  background-color: #8b0000;
+  color: #f5f0e6 !important;
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding: 0.5rem 0.75rem;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 2px solid #6b0000;
+}
+
+.wiki-category ul {
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem 0.75rem;
+}
+
+.wiki-category li {
+  padding: 0.2rem 0;
+  border-bottom: 1px dotted #c9b99a;
+}
+
+.wiki-category li:last-child {
+  border-bottom: none;
+}
+
+.wiki-category a {
+  color: #8b0000;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.wiki-category a:hover {
+  color: #5c0000;
+  text-decoration: underline;
+}
+
+/* Two-column layout for larger screens */
+@media (min-width: 768px) {
+  .wiki-categories {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .wiki-categories {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* Category page intro text */
+.wiki-intro {
+  font-size: 1rem;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #c9b99a;
+}
+
+/* Quick facts box */
+.wiki-infobox {
+  float: right;
+  width: 280px;
+  margin: 0 0 1rem 1.5rem;
+  background-color: #faf8f3;
+  border: 1px solid #c9b99a;
+}
+
+.wiki-infobox-header {
+  background-color: #8b0000;
+  color: #f5f0e6;
+  font-family: 'Cinzel', Georgia, serif;
+  padding: 0.5rem;
+  text-align: center;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.wiki-infobox table {
+  width: 100%;
+  border: none;
+  margin: 0;
+}
+
+.wiki-infobox td {
+  padding: 0.4rem 0.5rem;
+  border: none;
+  border-bottom: 1px dotted #c9b99a;
+  font-size: 0.85rem;
+}
+
+.wiki-infobox tr:last-child td {
+  border-bottom: none;
+}
+
+/* Related links section */
+.wiki-related {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 2px solid #c9b99a;
+}
+
+.wiki-related h2 {
+  font-size: 1.2rem;
+  color: #8b0000;
+}
+
+/* Clear floats after infobox */
+.wiki-content::after {
+  content: "";
+  display: table;
+  clear: both;
+}
