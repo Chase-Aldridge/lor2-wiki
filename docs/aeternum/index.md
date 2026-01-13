@@ -1,7 +1,7 @@
 ---
-id: aeternum
 title: Aeternum - The Fellowship of the Blade
 sidebar_label: Aeternum
+slug: /aeternum
 ---
 
 # Aeternum - The Fellowship of the Blade
