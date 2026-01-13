@@ -103,8 +103,8 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/Chase-Aldridge/lor2-wiki',
-          label: 'GitHub',
+          href: 'https://lor.chasealdridge.com',
+          label: '🗂️ Organized Wiki',
           position: 'right',
         },
       ],
