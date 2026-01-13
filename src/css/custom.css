@@ -431,6 +431,19 @@ html {
   color-scheme: light !important;
 }
 
+/* ===== BUTTONS ===== */
+.button--primary {
+  background-color: #8b0000;
+  border-color: #8b0000;
+  color: #f5f0e6 !important;
+}
+
+.button--primary:hover {
+  background-color: #6b0000;
+  border-color: #6b0000;
+  color: #ffd700 !important;
+}
+
 /* ===== WIKIDOT-STYLE CATEGORY BOXES ===== */
 .wiki-categories {
   display: grid;
