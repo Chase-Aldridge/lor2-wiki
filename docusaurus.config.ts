@@ -66,11 +66,12 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
+      disableSwitch: true,
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'World of LOR',
+      title: 'WORLD OF LOR',
       items: [
         {
           to: '/docs',
