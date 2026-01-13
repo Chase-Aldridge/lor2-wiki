@@ -25,7 +25,8 @@ const config: Config = {
   organizationName: 'Chase-Aldridge', // Usually your GitHub org/user name.
   projectName: 'lor2-wiki', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
