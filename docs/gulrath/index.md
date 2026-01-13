@@ -1,156 +1,578 @@
-# Gul'Rath
+---
+title: Gul'Rath Kingdoms
+sidebar_label: Gul'Rath
+slug: /gulrath
+---
 
-## The Continent
+# The Gul'Rath Campaign
 
-Our adventurers find themselves embroiled in the epic saga of one major continent where they were born in the world of LOR, **GUL'RATH**. Recorded history here begins over 10,000 years ago as detailed by the findings hidden in the ancient ruins dotting the land. Whatever civilization first emerged here is unclear, but evidence suggests they were some type of exiled kingdom from beyond the Material Plane.
+**DND 5E Campaign Setting by Kevin Orosz**
 
-The diverse continent is characterized by massive fields of highgrass, humid jungles, desolate volcanic mountains, crystalline deserts, and vast stretches of island archipelagos. The varied kingdoms of GUL'RATH share a hard-won peace present day after a decade-long war known as **THE RED CRUSADE**, where a splinter faction of the high elven kingdom of VOL'ANLEK waged total war against the combined alliance of the TAMARYEN yuan-ti, the IRONHELM dwarves, & the DRAGMAR AER aarakocra.
+---
 
-The devastating conflict ended with a pyrrhic victory where the wild elves were banished to THE BLOOD LANDS and the major kingdoms vassalized most of the lesser factions in the peace accords. A new era of peace and political intrigue has begun with each nation seeking to consolidate their power base through trade, ritual, exploration, and plots…
+## The Planet: LOR
+
+LOR is the planet and world the heroes find themselves in. Tales and myths have been told about the formation of the world by the gods since the birth of the elder races. Various dogmas and schools of thought exist from the younger races as far as timelines and metaphysical truths are concerned, however the reality is no one really knows. This diverse world is full of nations and empires of many stripes and inclinations. Even those from beyond the Material Plane inhabit LOR, a vast super-continental and oceanic mass containing all major biomes and climates known (the planet is about 130% larger than the Earth we know). The continent of GUL'RATH where we begin lies to the far north of the planet, and is somewhat isolated due to the vast oceanic distances required to travel south by sea, and the massive tracks of the unexplored AER DESERT covering the bottom of the continent.
+
+---
+
+## The Continent: Gul'Rath
+
+Our adventurers find themselves embroiled in the epic saga of one major continent where they were born in the world of LOR, GUL'RATH. Recorded history here begins over 10,000 years ago as detailed by the findings hidden in the ancient ruins dotting the land. Whatever civilization first emerged here is unclear, but evidence suggests they were some type of exiled kingdom from beyond the Material Plane. The diverse continent is characterized by massive fields of highgrass, humid jungles, desolate volcanic mountains, crystalline deserts, and vast stretches of island archipelagos. The varied kingdoms of GUL'RATH share a hard-won peace present day after a decade-long war known as THE RED CRUSADE, where a splinter faction of the high elven kingdom of VOL'ANLEK waged total war against the combined alliance of the TAMARYEN yuan-ti, the IRONHELM dwarves, & the DRAGMAR AER aarakocra. The devastating conflict ended with a pyrrhic victory where the wild elves were banished to THE BLOOD LANDS and the major kingdoms vassalized most of the lesser factions in the peace accords. A new era of peace and political intrigue has begun with each nation seeking to consolidate their power base through trade, ritual, exploration, and plots…
+
+---
+
+## The Story So Far
+
+### ACT I: AN ERA OF PEACE
+
+#### CHAPTER I "A CHANCE ENCOUNTER"
+
+---
+
+## Power Rankings
+
+Power rankings for kingdoms and factions denote on a scale of S, A, B, C, D the combined military, economic, and diplomatic might at the disposal of a given faction.
 
 ---
 
 ## The Great Kingdoms
 
-The four most powerful nations on the continent, each wielding immense military, economic, and diplomatic power.
+### Vol'Anlek
 
-- **[Vol'Anlek](/docs/gulrath/kingdoms/volanlek)** - High Elves, Theocratic Monarchy, B Tier
-  - Ancient masters of war, statecraft, and magic
-  - Leader: Grand Hierophant Ludus Alephor
+**Population:** 140,000
+**Races:** High Elves
+**Government:** Theocratic Monarchy
+**Leader:** Grand Hierophant Ludus Alephor
+**Dominant Alignment:** Lawful Neutral
+**Deity:** Ehlonna
+**Power Ranking:** B Tier
 
-- **[Tamaryen](/docs/gulrath/kingdoms/tamaryen)** - Yuan-Ti, Military Autocracy, A Tier
-  - Largest city and military force on the continent
-  - Leader: Praetor Sasaren
+Great city built upon ancient "Forebearer" jungle ruins. Oldest race to inhabit the continent, control much of the northwest realms. Masters of war, statecraft, and magic, yet slow to change traditions and mistrust outsiders. Two major noble families who share power, Alephor & Horun. Ludus Alephor, a ruthless and dogmatic archmage, is the current political and spiritual leader of the kingdom. Striker Horun "elvenkind's strongest soldier", general of the Golden Legions defeated the betrayer Archknight Maldrake and his wild elf bloodletters to end The Red Crusade.
 
-- **[Ironhelm](/docs/gulrath/kingdoms/ironhelm)** - Mountain/Hill Dwarves, Imperial Confederacy, S Tier
-  - Masters of the Dragonspine Mountains, inventors of gunpowder
-  - Leader: Emperor Aldrick Ironshield
+### Tamaryen
 
-- **[Dragmar Aer](/docs/gulrath/kingdoms/dragmar-aer)** - Aarakocra, Plutocratic Matriarchy, B Tier
-  - Most powerful traders and merchants, masters of ritual magic
-  - Leader: Queen Rerumaj Cloudfeather
+**Population:** 600,000
+**Races:** Red/Black Yuan-Ti
+**Government:** Military Autocracy
+**Leader:** Praetor Sasaren
+**Dominant Alignment:** Chaotic Neutral
+**Deity:** Tiamat
+**Power Ranking:** A Tier
+
+Largest city on the continent. Yuan-Ti are notorious for their military juntas and rigorous laws, Red Yuan-Ti are considered nobility, Black are the warrior-class. Their lands and holdings are just as liable to trade slaves [humans being the most prized] as they are to trade in valuable intelligence on the other kingdoms. Current Praetor and de facto military dictator is a black Yuan-Ti Sasaren, known for his cruelty towards prisoners of war. Has the largest numerical standing military and naval fleets and controls the northern seas.
+
+### Ironhelm
+
+**Population:** 500,000
+**Races:** Mountain/Hill Dwarves
+**Government:** Imperial Confederacy
+**Leader:** Emperor Aldrick Ironshield
+**Dominant Alignment:** Neutral Good
+**Deity:** Grungnar
+**Power Ranking:** S Tier
+
+Second oldest people on the continent and masters of the entire mountainous southeast. Collection of warrior, crafting, religious, and explorer great clans. Emperor Aldrick Ironshield is from the most influential clan with the best smiths and warriors and was chosen in a landslide among the dwarven elders. Boasts the most elite troops, highest quality gear, and most war machines among the great realms…including the recent invention of gunpowder. Nearly exterminated the entire orc tribal holds in the Dragonspine Mts. Ongoing battle of attrition with their dark kin, the duergar, underneath their major holds.
+
+### Dragmar Aer
+
+**Population:** 330,000
+**Races:** Aarakocra
+**Government:** Plutocratic Matriarchy
+**Leader:** Queen Rerumaj Cloudfeather
+**Dominant Alignment:** True Neutral
+**Deity:** Ket
+**Power Ranking:** B Tier
+
+Most powerful trader and merchant class on the continent, their spycraft and ritual magic is also feared. Deal with djinn and elemental lords from the Plane of Fire and the Plane of Earth. Wealth is power here, completely determining the matriarchal line of succession. Sponsor and patron to the famed Explorer's Association. Recently come under brutal raids from the remaining wild elf bloodletters pushing out from the blood lands.
 
 ---
 
 ## The Lesser Kingdoms
 
-Smaller nations that have been vassalized or remain independent through other means.
+### Ithiltara
 
-- **[Ithiltara](/docs/gulrath/kingdoms/ithiltara)** - Sea Elves/Gnomes, Maritime Meritocracy, C Tier (Vassal under DRAGMAR AER)
-  - Free trade city and harbor for dungeon seekers
-  - Leader: Seamaster Laedaere
+**Population:** 290,000
+**Races:** Sea Elves/Gnomes
+**Government:** Maritime Meritocracy [Vassal under DRAGMAR AER]
+**Leader:** Seamaster Laedaere
+**Dominant Alignment:** Chaotic Good
+**Deity:** Eideon
+**Power Ranking:** C Tier
 
-- **[Cormandir](/docs/gulrath/kingdoms/cormandir)** - High Elf/Tiefling/Sea Elf, Aristocratic Magocracy, B Tier (Independent)
-  - Home to the powerful MAGISTERIUM
-  - Leader: Grand Magister Tenebros
+Free trade city, sea elves are looked down upon high elves. Trade fleets and mercenaries are highly prized. Rumored to be bought and paid for, and also in debt to the DRAGMAR AER. Harbor for dungeon seekers, pirates, brigands, and master traders. Site of the Explorer's Association.
 
-- **[Jalurian](/docs/gulrath/kingdoms/jalurian)** - Half Orc/Human, Clan Tribunal, C Tier (Protectorate under TAMARYEN)
-  - Haven for pirates, explorers, and treasure hunters
-  - Leader: Warchief Ka Orum
+### Cormandir
 
-- **[Saint Helensberg](/docs/gulrath/kingdoms/saint-helensberg)** - Mixed Races, Feudal Democracy, D Tier (Vassal under VOL'ANLEK)
-  - Most religious and democratic city
-  - Leader: Lord Gelus Greyhawk
+**Population:** 50,000
+**Races:** High Elf/Tiefling/Sea Elf
+**Government:** Aristocratic Magocracy [Independent]
+**Leader:** Grand Magister Tenebros
+**Dominant Alignment:** Lawful Evil
+**Deity:** Kronus
+**Power Ranking:** B Tier
 
----
+Home to the powerful MAGISTERIUM, the only non-vassalized power remaining after THE RED CRUSADE. Cabal of the masters of colleges of magic, all based on bloodlines…maintain absolute secrecy and compartmentalization of their assets and agents. Recently rumored to have discovered psionic potential, and have known connections the nine hells and the Outer Realm.
 
-## Major Factions
+### Jalurian
 
-Powerful organizations and orders that shape the politics of Gul'Rath.
+**Population:** 190,000
+**Races:** Half Orc/Human
+**Government:** Clan Tribunal [Protectorate under TAMARYEN]
+**Leader:** Warchief Ka Orum
+**Dominant Alignment:** Chaotic Neutral
+**Deity:** [multi-pantheon]
+**Power Ranking:** C Tier
 
-### Military Orders
-- **[The Golden Legion](/docs/gulrath/factions/golden-legion)** - Elite high elf military force, A Tier
-- **[The Black Order](/docs/gulrath/factions/black-order)** - Yuan-Ti warrior elite, A Tier
+One of the last open havens for pirates, explorers, freebooters, and sailors. Half-orcs clans here are seeking peace after the extermination of their orc ancestors…accepted the exiled humans because of this. Treasure hunters and ancient ruins archeologists flock here to congregate and mount seaborne expeditions. Warchief Ka Orum is a benevolent half-orc who wishes to see his surviving people and the human exiles co-exist.
 
-### Noble Houses & Clans
-- **[Great House Alephor](/docs/gulrath/factions/great-house-alephor)** - Religious high elf nobility, A Tier
-- **[The Trinitum](/docs/gulrath/factions/trinitum)** - Red Yuan-Ti aristocratic order, B Tier
-- **[Clan Ironshield](/docs/gulrath/factions/clan-ironshield)** - Dominant dwarven warrior clan, A Tier
-- **[Clan Dragonhelm](/docs/gulrath/factions/clan-dragonhelm)** - Ancient dwarven rune masters, B Tier
-- **[The Infinite Aerie](/docs/gulrath/factions/infinite-aerie)** - Aarakocra merchant plutocrats, B Tier
+### Saint Helensberg
 
-### Independent Organizations
-- **[The Explorer's Association](/docs/gulrath/factions/explorers-association)** - Adventurer's guild, C Tier
-- **[The Sons of the Sea](/docs/gulrath/factions/sons-of-the-sea)** - Maritime alliance, C Tier
-- **[The Magisterium](/docs/gulrath/factions/magisterium)** - Secret cabal of mages, A Tier
-- **[The Exiles](/docs/gulrath/factions/exiles)** - Displaced peoples, C Tier
-- **[The Free Peoples](/docs/gulrath/factions/free-peoples)** - Peace-loving citizens, D Tier
-- **[The Wild Elves](/docs/gulrath/factions/wild-elves)** - Nomadic bloodletters, A Tier
+**Population:** 110,000
+**Races:** Sea Elf/Gnome/Halfling/Half Orc/Human
+**Government:** Feudal Democracy [Vassal under VOL'ANLEK]
+**Leader:** Lord Gelus Greyhawk
+**Dominant Alignment:** Chaotic Good
+**Deity:** [multi-pantheon]
+**Power Ranking:** D Tier
 
----
-
-## Heroes of Renown
-
-The legendary individuals who shape the fate of nations.
-
-### S+ Tier (Godlike, Levels 21+)
-- **[Archknight Maldrake](/docs/gulrath/characters/maldrake)** [SLAIN] - Wild Elf Warlord
-- **[Grand Magister Tenebros](/docs/gulrath/characters/tenebros)** - Tiefling Arch Magister
-
-### S Tier (Legendary Masters, Levels 17-20)
-- **[Commander Striker Horun](/docs/gulrath/characters/striker-horun)** - High Elf General
-- **[Grand Hierophant Ludus Alephor](/docs/gulrath/characters/ludus-alephor)** - High Elf Archmage
-- **[Emperor Aldrick Ironshield](/docs/gulrath/characters/aldrick-ironshield)** - Mountain Dwarf Warmaster
-
-### A Tier (Realm Heroes, Levels 14-16)
-- **[Praetor Sasaren](/docs/gulrath/characters/sasaren)** - Black Yuan-Ti General
-- **[Lord Zaz Crimsonscale](/docs/gulrath/characters/zaz-crimsonscale)** - Red Yuan-Ti Duke
-
-### B Tier (Known Heroes, Levels 10-13)
-- **[King Huren Dragonhelm](/docs/gulrath/characters/huren-dragonhelm)** - Hill Dwarf Rune Priest
-- **[Queen Rerumaj Cloudfeather](/docs/gulrath/characters/rerumaj-cloudfeather)** - Aarakocra Seer Sorcerer
-- **[Seamaster Laedaere](/docs/gulrath/characters/laedaere)** - Sea Elf Grand Admiral
-
-### C Tier (Local Heroes, Levels 6-9)
-- **[Warchief Ka Orum](/docs/gulrath/characters/ka-orum)** - Half Orc Berserker
-- **[Lord Gelus Greyhawk](/docs/gulrath/characters/gelus-greyhawk)** - Gnome Politician
-
-### Unknown Tier
-- **[Chief Darius](/docs/gulrath/characters/chief-darius)** - Enigmatic leader of the Explorer's Association
+One of the most religious places in the lands, pilgrims and acolytes come here often. Peaceful and democratic city, but has suffered most due to this during past conflicts. The most eclectic mix of races and exiles on the mainland…defending with steep tariffs by the high elf kingdoms. Site of many traditional rituals, festivals, and fertility rites. Lord Gelus Greyhawk is the recently elected gnome noble.
 
 ---
 
-## The Campaign
+## Factions in Gul'Rath
 
-**[Act I: An Era of Peace](/docs/gulrath/story/act-1)**
-- Chapter I: A Chance Encounter
+### The Golden Legion
+
+**Population:** 44,000
+**Races:** High Elf
+**Government:** Military Order
+**Leader:** Commander Striker Horun
+**Dominant Alignment:** Lawful Neutral
+**Deity:** Ehlonna, Bahamut
+**Power Ranking:** A Tier
+
+The remnants of the great host summoned to battle in THE RED CRUSADE. Ruled over by the lesser noble HOUSE HORUN, led by their leader Striker Horun. Highly trained in regimented war stratagems, using fighters, paladins, clerics, rangers and monks.
+
+### Great House Alephor
+
+**Population:** 33,000
+**Races:** High Elf
+**Government:** Aristocracy
+**Leader:** Grand Hierophant Ludus Alephor
+**Dominant Alignment:** Lawful Neutral
+**Deity:** Ehlonna
+**Power Ranking:** A Tier
+
+The oldest and most religious house of the high elves, ruled by hereditary bloodlines. Current leader Ludus Alephor is the de facto religious ruler of the entire kingdom. Masters of magical combat using wizards, sorcerers, clerics, and druids.
+
+### The Black Order
+
+**Population:** 290,000
+**Races:** Black Yuan-Ti
+**Government:** Military Order
+**Leader:** Praetor Sasaren
+**Dominant Alignment:** Lawful Evil
+**Deity:** Tiamat
+**Power Ranking:** A Tier
+
+A newly risen faction of warrior class black yuan-ti who serve Sasaren without question. Cruel masters of war and espionage, notorious for its rogues, necromancers, rangers, and fighters. Have total power of the current kingdom government, police, and trade.
+
+### The Trinitum
+
+**Population:** 400,000
+**Races:** Red Yuan-Ti
+**Government:** Philosophical Aristocratic Order
+**Leader:** Lord Zaz Crimsonscale
+**Dominant Alignment:** True Neutral
+**Deity:** Tiamat, Draconiss
+**Power Ranking:** B Tier
+
+The oldest order among the yuan-ti, ruled over by lines of red nobility for generations. Religious and curious to obtain power in the shadows, using warlocks, bards, barbarians, clerics, and wizards. Currently vying for power to spread their teachings and influence abroad under Zaz Crimsonscale.
+
+### Clan Ironshield
+
+**Population:** 100,000
+**Races:** Mountain Dwarves
+**Government:** Warrior Clan
+**Leader:** Emperor Aldrick Ironshield
+**Dominant Alignment:** Neutral Good
+**Deity:** Grungnar
+**Power Ranking:** A Tier
+
+The most powerful dwarven clan of peerless warriors and smiths. Their leader is the current Emperor of the mountain realm, and has brought great peace to his people under his benevolent rule. Possess the highest quality magical armaments and artifacts, as well as engines of war, using fighters, paladins, clerics, monks.
+
+### Clan Dragonhelm
+
+**Population:** 300,000
+**Races:** Mountain/Hill Dwarves
+**Government:** Noble Clan
+**Leader:** King Huren Dragonhelm
+**Dominant Alignment:** Lawful Good
+**Deity:** Grungnar
+**Power Ranking:** B Tier
+
+The oldest and most influential clan of dwarven elders and seers, uses rune magic to influence politics and predict omens from their god. United under the confederation of King Huren Dragonhelm, an old war ally of the Emperor. Their runecraft and magic is legendary, currently control "The Shadowforge", using clerics, druids, rune priests, and paladins.
+
+### The Infinite Aerie
+
+**Population:** 220,000
+**Races:** Aarakocra
+**Government:** Merchant Plutocracy
+**Leader:** Queen Rerumaj Cloudfeather
+**Dominant Alignment:** True Neutral
+**Deity:** Ket, Leviathan, Xan Yae
+**Power Ranking:** B Tier
+
+A coalition of merchant lords, master traders, and winged plutocrats under the wealthy rule of their queen. Responsible for master spies, emissaries, diplomats and traders across the whole continent. Their alliance with the fire and earth djinn has made their military forces masters of fast attack tactics using assassins, rogues, wizards, knights, and artificers.
+
+### The Explorer's Association
+
+**Population:** 99,999
+**Races:** Varies
+**Government:** Meritocratic Corporation
+**Leader:** Chief Darius
+**Dominant Alignment:** Chaotic Neutral
+**Deity:** Varies
+**Power Ranking:** C Tier
+
+The ancient order of adventurers, explorers, thieves, archaeologists, sages, and pirates notorious for their dangerous guild contracts. Currently under the patronage and funding of DRAGMAR AER brokered by their enigmatic Chief Darius. Largest HQ and office besides the AER DESERT is in ITHILTARA where they sponsor bands of adventurers with lures of glory, gold, and women.
+
+### The Sons of the Sea
+
+**Population:** 120,000
+**Races:** Sea Elf, Gnome, Halfling
+**Government:** Meritocratic Admiralty
+**Leader:** Seamaster Laedaere
+**Dominant Alignment:** Chaotic Good
+**Deity:** Eideon, Ehlonna, Silvanus, Xan Yae
+**Power Ranking:** C Tier
+
+A powerful ITHILTARA alliance of fleet admirals, merchant vessels, and wealthy warlords of the oceans united under Seamaster Laedaere. One of the best sources of information about the high seas and trade, tenuous alliance with THE EXPLORER'S ASSOCIATION. Currently seeking to consolidate trade power and push the creation of new sea maps beyond the current continent.
+
+### The Magisterium
+
+**Population:** 10,000
+**Races:** Tiefling, Sea Elf, High Elf
+**Government:** Magocracy
+**Leader:** Grand Magister Tenebros
+**Dominant Alignment:** Lawful Evil
+**Deity:** Kronus
+**Power Ranking:** A Tier
+
+Little is known of this power cabal centered in the mage high tower of CORMANDIR. The current Grand Magister has been rumored to have conducted diabolical experiment to contact The Nine Hells and The Outer Realm. Trade and diplomacy is limited to other factions, and their magic spells and rituals come at excruciating prices when offered.
+
+### The Exiles
+
+**Population:** 350,000
+**Races:** All Races
+**Government:** Clan Tribunal
+**Leader:** Warchief Ka Orum
+**Dominant Alignment:** Chaotic Neutral
+**Deity:** Varies
+**Power Ranking:** C Tier
+
+A spread out people from all kingdoms, seeking asylum from other lands due to crime, wanderlust, religious practice, and political exile. Loosely centered around JALURIAN and the current half-orc Warchielf Ka Orum who is trying to unite the broken orc people with the humans. Their intentions are unknown beyond piracy, survival, and the occasional heist of the mainland….a hidden thieves guild is rumored to be hidden within their ranks.
+
+### The Free Peoples
+
+**Population:** 110,000
+**Races:** All Races
+**Government:** Democracy and Fiefdoms
+**Leader:** Lord Gelus Greyhawk
+**Dominant Alignment:** Chaotic Good
+**Deity:** Varies
+**Power Ranking:** D Tier
+
+Centered around SAINT HELENSBERG, this is a motley crew of peace-loving folk who have suffered greatly during THE RED CRUSADE. Currently their elected leader is Lord Gelus Greyhawk, who wishes to see religious peace and wealthy piety return to the realm. Noteworthy for having prophets, seers, and clerics of some renown serving in their temples.
+
+### The Wild Elves
+
+**Population:** unknown
+**Races:** Wild Elves
+**Government:** Warlords
+**Leader:** Formerly Archknight Maldrake
+**Dominant Alignment:** Chaotic Evil
+**Deity:** Nihilus
+**Power Ranking:** A Tier
+
+The nomadic military remnants leftover after the end of THE RED CRUSADE when their leader was defeated at the BATTLE OF BROKEN BLADES. Currently nomadic bands of wild elf bloodletters are the primary danger to travelers through the AER DESERT and THE BLOOD LANDS, their numbers and power base are unknown.
 
 ---
 
-## The Pantheon
+## Heroic Rankings
 
-The gods worshiped throughout Gul'Rath:
-
-- **Ehlonna** - Goddess of nature and fertility (Vol'Anlek)
-- **Tiamat** - Goddess of chaos, five-headed dragon (Tamaryen)
-- **Grungnar** - God of smithing and courage (Dwarves)
-- **Ket** [SLAIN] - God of commerce and gold (Dragmar Aer)
-- **Silvanus** - God of wild nature
-- **Gaia** - Goddess of life and nature itself
-- **Leviathan** - God of balance, great blue dragon
-- **Draconiss** - God of all dragonkin
-- **Bahamut** - God of order, great silver dragon
-- **Xan Yae** - Goddess of the unseen
-- **Eideon** - God of the sea
-- **Nihilus** - God of the nine hells
-- **Kronus** - Titan of time
-
-[Full pantheon details](/docs/gulrath/pantheon)
+**S+ TIER:** Godlike beings of legendary renown (levels 21+)
+**S TIER:** Master heroes of legendary renown (levels 17-20)
+**A TIER:** Realm heroes of great renown (levels 14-16)
+**B TIER:** Realm heroes of some renown (levels 10-13)
+**C TIER:** Local heroes of great renown (levels 6-9)
+**D TIER:** Local heroes of little renown (levels 1-5)
 
 ---
 
-## Power Rankings System
+## Heroes in Gul'Rath
 
-Power rankings for kingdoms and factions denote on a scale of **S, A, B, C, D** the combined military, economic, and diplomatic might at the disposal of a given faction.
+### Commander Striker Horun
 
-**S Tier** - Dominant continental power
-**A Tier** - Major power with significant influence
-**B Tier** - Regional power with specialized strength
-**C Tier** - Lesser power with limited reach
-**D Tier** - Minimal power, dependent on others
+**Race and class:** High Elf General
+**Known equipment:** Blade of Helion
+**HQ:** The Golden Citadel
+**Alignment:** Lawful Good
+**Tier:** S
+
+### Grand Hierophant Ludus Alephor
+
+**Race and class:** High Elf Archmage
+**Known equipment:** Staff of the Magi
+**HQ:** Alephor Palace
+**Alignment:** Lawful Neutral
+**Tier:** S
+
+### Archknight Maldrake [slain]
+
+**Race and class:** Wild Elf Warlord
+**Known equipment:** Blooddrinker
+**HQ:** Formerly The Blood Lands
+**Alignment:** Chaotic Evil
+**Tier:** S+
+
+### Praetor Sasaren
+
+**Race and class:** Black Yuan-Ti General
+**Known equipment:** Helm of the Serpent God
+**HQ:** Castle Zaranhar
+**Alignment:** Neutral Evil
+**Tier:** A
+
+### Lord Zaz Crimsonscale
+
+**Race and class:** Red Yuan-Ti Duke
+**Known equipment:** Scepter of Tiamat
+**HQ:** The Trimarken
+**Alignment:** Lawful Neutral
+**Tier:** A
+
+### Emperor Aldrick Ironshield
+
+**Race and class:** Mountain Dwarf Warmaster
+**Known equipment:** Shield of the Ancients
+**HQ:** Ironhelm Keep
+**Alignment:** Lawful Good
+**Tier:** S
+
+### King Huren Dragonhelm
+
+**Race and class:** Hill Dwarf Rune Priest
+**Known equipment:** Hammer of Grungnar
+**HQ:** Castle Dragonhelm
+**Alignment:** Neutral Good
+**Tier:** B
+
+### Queen Remuraj Cloudfeather
+
+**Race and class:** Aarakocra Seer Sorcerer
+**Known equipment:** Dreamwand
+**HQ:** Skyfall
+**Alignment:** Chaotic Neutral
+**Tier:** B
+
+### Chief Darius
+
+**Race and class:** unknown Chief Exploration Officer
+**Known equipment:** unknown
+**HQ:** unknown
+**Alignment:** unknown
+**Tier:** unknown
+
+### Seamaster Laedaere
+
+**Race and class:** Sea Elf Grand Admiral
+**Known equipment:** The Pearl Trident
+**HQ:** Ithiltara Port
+**Alignment:** Chaotic Good
+**Tier:** B
+
+### Grand Magister Tenebros
+
+**Race and class:** Tiefling Arch Magister
+**Known equipment:** Cloak of Shadows
+**HQ:** Cormandir
+**Alignment:** Lawful Evil
+**Tier:** S+
+
+### Warchief Ka Orum
+
+**Race and class:** Half Orc Berserker
+**Known equipment:** Mountain Claw
+**HQ:** Jalurian
+**Alignment:** Chaotic Good
+**Tier:** C
+
+### Lord Gelus Greyhawk
+
+**Race and class:** Gnome Politician
+**Known equipment:** Seal of Xan Yae
+**HQ:** Saint Helensberg
+**Alignment:** Neutral Good
+**Tier:** C
 
 ---
 
-## The Red Crusade
+## Pantheon of Gods in Gul'Rath
 
-The defining conflict of recent history. A decade-long war where a splinter faction of wild elves from VOL'ANLEK, led by the legendary Archknight Maldrake, waged total war against the combined forces of Tamaryen, Ironhelm, and Dragmar Aer. The war ended at the **Battle of Broken Blades** where Commander Striker Horun defeated Maldrake. The wild elves were banished to the Blood Lands, and the peace accords vassalized most lesser kingdoms under the great powers.
+### Ket (SLAIN)
+
+Male god of commerce and gold, appears as an opulent cloaked lord.
+
+**Influence:** Chiefly worshiped by DRAGMAR AER
+**Alignment:** Chaotic Neutral
+**Domains:** Trickery, Knowledge
+**Weapon:** Dagger
+**Colors:** Orange and Blue
+**Offerings:** Copper, silver, or gold coins
+**Plane:** The Shadow Citadel (Limbo)
+
+### Ehlonna
+
+Female goddess of nature and fertility, appears as an beautiful elven priestess.
+
+**Influence:** Chiefly worshiped by VOL'ANLEK
+**Alignment:** Neutral Good
+**Domains:** Nature, Life, Twilight
+**Weapon:** Staff, Bow
+**Colors:** Green, White
+**Offerings:** Leaves, Branches, Flowers
+**Plane:** Verdant Boughs (Elysium)
+
+### Grungnar
+
+Male god of smithing and courage, appears as a stout enraged dwarf.
+
+**Influence:** Chiefly worshiped by all dwarves in the DRAGONSPINE MOUNTAINS
+**Alignment:** Chaotic Good
+**Domains:** War, Forge
+**Weapon:** Axe
+**Colors:** Red and Brown
+**Offerings:** Carved stone or refined ore
+**Plane:** Dwarfhelm (Mount Celestia)
+
+### Tiamat
+
+Female goddess of chaos, appears as a terrible five-headed dragon.
+
+**Influence:** Chiefly worshiped by TAMARYEN
+**Alignment:** Chaotic Evil
+**Domains:** Death, Nature, Tempest
+**Weapon:** Wakizashi
+**Colors:** White, Black, Green, Blue, and Red
+**Offerings:** Parchment, ash, or music
+**Plane:** Draconium (The Abyss)
+
+### Silvanus
+
+Male god of wild nature, appears a sylvan forest avatar. One of the oldest gods having arisen from the soul of nature itself on the planet.
+
+**Influence:** Chiefly worshiped by leaderless elves, halflings, gnomes, and humans
+**Alignment:** Neutral Good
+**Domains:** Nature, Life
+**Weapon:** Bow
+**Colors:** Green
+**Offerings:** Oak leaves or branches
+**Plane:** The Emerald Grove (Bytopia)
+
+### Gaia
+
+Female goddess of life and nature itself, appears as all living things.
+
+**Influence:** Chiefly worshiped by those who dwell in wild places
+**Alignment:** Neutral Good
+**Domains:** Nature, Life, Light
+**Weapon:** Storms
+**Colors:** Green, White
+**Offerings:** Pebbles, seeds, dew
+**Plane:** The Core (Elysium)
+
+### Leviathan
+
+Male god of balance, appears a great blue dragon.
+
+**Influence:** Chiefly worshiped by aasimar, celestials
+**Alignment:** Chaotic Good
+**Domains:** Tempest, Light
+**Weapon:** Lightning
+**Colors:** Blue, White, Gold
+**Offerings:** Feathers
+**Plane:** Cerulean Sanctum (Arborea)
+
+### Draconiss
+
+Male god of all dragonkin, appears as the first ancient wyrm. He is the all-father of all dragonborn and dragons.
+
+**Influence:** Chiefly worshiped by all dragonborn and dragons
+**Alignment:** True Neutral
+**Domains:** Nature, Light
+**Weapon:** Katana
+**Colors:** Pure White
+**Offerings:** Water or fire
+**Plane:** The World Tree (Beastlands)
+
+### Bahamut
+
+Male god of order, appears as a great silver dragon.
+
+**Influence:** Chiefly worshiped by goodly dragonborn, and some knights, and yuan-ti
+**Alignment:** Lawful Good
+**Domain:** Nature, War
+**Weapon:** Dai-Katana
+**Colors:** Pure Silver
+**Offerings:** Ice, flowers, or incense
+**Plane:** Platinum Keep (Arcadia)
+
+### Xan Yae
+
+Female goddess of the unseen, appears as a slender, sincere monk.
+
+**Influence:** Chiefly worshiped by monks, clerics, and paladins
+**Alignment:** True Neutral
+**Domain:** Light, Knowledge, Life, Peace
+**Weapon:** Hand wraps
+**Colors:** Pure White and Grey
+**Offerings:** Candles, scrolls, prayer wheels
+**Plane:** The Unseen Monastery (The Outlands)
+
+### Eideon
+
+Male god of the sea, appears as an aquatic elven lord.
+
+**Influence:** Chiefly worshiped by the sea elves and sailors of all races
+**Alignment:** Chaotic Neutral
+**Domain:** Nature, Tempest, Arcana
+**Weapon:** Trident
+**Colors:** Deep Blue and Indigo
+**Offerings:** Shells, sand, sea water
+**Plane:** Deep Seahome (The Beastlands)
+
+### Nihilus
+
+Male god of the nine hells, appears as an arch demon lord.
+
+**Influence:** Chiefly worshiped by demons and devils, some mages
+**Alignment:** Lawful Evil
+**Domain:** Death, War, Grave
+**Weapon:** Whip, Battlaxe
+**Colors:** Deep Red and Black
+**Offerings:** Skulls, gold, ash
+**Plane:** Infernatus Keep (The Nine Hells)
+
+### Kronus
+
+Male titan of time, appears as a black arcane hulk. One of the first 3 titans created, gave birth to all the other gods of LOR.
+
+**Influence:** Chiefly worshiped by Magisterium
+**Alignment:** Chaotic Evil
+**Domain:** Death, Knowledge, Arcana
+**Weapon:** Magic
+**Colors:** Pure Black
+**Offerings:** Time, lifespan, blood
+**Plane:** Unknown
