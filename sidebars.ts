@@ -12,7 +12,7 @@ const sidebars: SidebarsConfig = {
       label: 'Aeternum',
       link: {
         type: 'doc',
-        id: 'aeternum/index',
+        id: 'aeternum',
       },
       items: [
         {
