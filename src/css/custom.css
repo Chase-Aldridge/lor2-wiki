@@ -1,0 +1,194 @@
+/**
+ * Wikidot-style custom CSS for World of LOR wiki
+ * Clean, text-focused, minimal design
+ */
+
+:root {
+  /* Simple color scheme - wikidot style */
+  --ifm-color-primary: #5577aa;
+  --ifm-color-primary-dark: #4a6a99;
+  --ifm-color-primary-darker: #445f8f;
+  --ifm-color-primary-darkest: #374d75;
+  --ifm-color-primary-light: #6084bb;
+  --ifm-color-primary-lighter: #6b8fc5;
+  --ifm-color-primary-lightest: #85a5d9;
+
+  /* Typography - simple and readable */
+  --ifm-font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  --ifm-heading-font-family: Georgia, 'Times New Roman', serif;
+  --ifm-font-size-base: 15px;
+  --ifm-line-height-base: 1.6;
+
+  /* Content width */
+  --ifm-container-width: 1200px;
+  --ifm-container-width-xl: 1400px;
+
+  /* Minimal spacing */
+  --ifm-global-spacing: 1rem;
+  --ifm-navbar-height: 3.5rem;
+
+  /* Code */
+  --ifm-code-font-size: 90%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.05);
+}
+
+[data-theme='dark'] {
+  /* Dark mode - wikidot inspired */
+  --ifm-color-primary: #7799cc;
+  --ifm-color-primary-dark: #6288c3;
+  --ifm-color-primary-darker: #577fbd;
+  --ifm-color-primary-darkest: #3f6aa3;
+  --ifm-color-primary-light: #8caad5;
+  --ifm-color-primary-lighter: #97b3db;
+  --ifm-color-primary-lightest: #b6c9e8;
+
+  --ifm-background-color: #1b1b1d;
+  --ifm-background-surface-color: #242526;
+
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.05);
+}
+
+/* Wikidot-style minimal navbar */
+.navbar {
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+  box-shadow: none;
+  background-color: var(--ifm-navbar-background-color);
+}
+
+.navbar__title {
+  font-family: var(--ifm-heading-font-family);
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+/* Content area - wikidot style */
+.main-wrapper {
+  background-color: var(--ifm-background-color);
+}
+
+article {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Headers - simple wikidot style */
+.markdown h1 {
+  font-family: var(--ifm-heading-font-family);
+  font-size: 2rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid var(--ifm-color-emphasis-300);
+  padding-bottom: 0.5rem;
+}
+
+.markdown h2 {
+  font-family: var(--ifm-heading-font-family);
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  padding-bottom: 0.3rem;
+}
+
+.markdown h3 {
+  font-family: var(--ifm-heading-font-family);
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.markdown h4 {
+  font-family: var(--ifm-heading-font-family);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Tables - simple wikidot style */
+.markdown table {
+  border: 1px solid var(--ifm-table-border-color);
+  font-size: 0.95rem;
+}
+
+.markdown table thead tr {
+  background-color: var(--ifm-color-emphasis-100);
+  border-bottom: 2px solid var(--ifm-table-border-color);
+}
+
+.markdown table th {
+  font-weight: 600;
+  padding: 0.75rem;
+}
+
+.markdown table td {
+  padding: 0.75rem;
+}
+
+/* Lists - clean wikidot style */
+.markdown ul,
+.markdown ol {
+  line-height: 1.7;
+}
+
+.markdown li {
+  margin-bottom: 0.25rem;
+}
+
+/* Sidebar - minimal */
+.theme-doc-sidebar-container {
+  border-right: 1px solid var(--ifm-toc-border-color);
+}
+
+.menu__link {
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* Remove fancy cards and features */
+.card,
+.hero {
+  box-shadow: none;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Emphasis on content density */
+.markdown p {
+  margin-bottom: 0.75rem;
+  line-height: 1.7;
+}
+
+/* Code blocks - simple */
+.markdown pre {
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Footer - minimal */
+.footer {
+  border-top: 1px solid var(--ifm-toc-border-color);
+  background-color: var(--ifm-footer-background-color);
+  padding: 1.5rem 0;
+}
+
+.footer__copyright {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+/* Remove excess padding and decoration */
+.theme-doc-markdown {
+  padding-top: 1rem;
+}
+
+/* Simple, document-like appearance */
+blockquote {
+  border-left: 3px solid var(--ifm-color-primary);
+  background-color: var(--ifm-color-emphasis-100);
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+}
